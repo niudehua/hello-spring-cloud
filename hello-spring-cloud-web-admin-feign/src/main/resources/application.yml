@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: hello-spring-cloud-web-admin-feign
+  cloud:
+    config:
+      url: http://localhost:8888
+      name: web-admin-feign
+      lable: master
+      profile: dev
