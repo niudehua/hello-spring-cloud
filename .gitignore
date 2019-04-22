@@ -24,3 +24,10 @@ rebel.xml
 ### Other ###
 logs/
 temp/
+hello-spring-cloud-config/src/test/
+hello-spring-cloud-eureka/src/test/
+hello-spring-cloud-service-admin/src/test/
+hello-spring-cloud-web-admin-feign/src/test/
+hello-spring-cloud-web-admin-ribbon/src/test/
+hello-spring-cloud-zipkin/src/test/
+hello-spring-cloud-zuul/src/test/
