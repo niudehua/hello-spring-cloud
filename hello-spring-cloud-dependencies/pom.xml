@@ -15,7 +15,7 @@
     <packaging>pom</packaging>
 
     <name>hello-spring-cloud-dependencies</name>
-    <url>http://www.dxb.com</url>
+    <url>http://www.niudehua.cn</url>
     <inceptionYear>2019-Now</inceptionYear>
 
     <properties>
